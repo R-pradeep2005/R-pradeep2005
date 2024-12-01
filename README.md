@@ -1,3 +1,6 @@
+<img src = "./Hello, I'm Pradeep.png" width="20px">
+
+
 ## I'm pradeep interested learing new things
 ### I use the below tools 
 
