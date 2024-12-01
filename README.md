@@ -7,5 +7,5 @@
  <img src = "./pngwing.com (3).png" width="50px">
  <img src = "./pngwing.com (4).png" width="50px">
  </div>
- <source scrset="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"><source>
+ <source scrset="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
 
