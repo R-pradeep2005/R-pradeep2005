@@ -1,4 +1,4 @@
-<img src = "./name.png" width="500px">
+<div style="width:'100%'; display:flex; align-item:center;"><img src = "./name.png" width="500px"></div>
 
 
 ## I'm pradeep interested learing new things
