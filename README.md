@@ -1,21 +1,19 @@
 <div style="width:'100%'; display:flex; align-item:center;"><img src = "./name.png" width="500px"></div>
 
 
-## ⚓ about me :
-### Tech enthusiast
-### Learning react-native
-### Currently unemunemployed 
-## 🖥️ tech stack :
+### ⚓ About me :
+#### tech enthusiast
+#### learning react-native
+#### currently unemunemployed 
+### 🖥️ Tech stack :
+<div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> <img src = "./vscode.png"width="50px">
+  <img src = "./pngwing.com (1).png" width="50px">
+  <img src = "./pngwing.com (2).png" width="50px">
+  <img src = "./pngwing.com (3).png" width="50px">
+  <img src = "./pngwing.com (4).png" width="50px">
+  </div>
 
-
-<div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> <img src = "./vscode.png" width="50px">
- <img src = "./pngwing.com (1).png" width="50px">
- <img src = "./pngwing.com (2).png" width="50px">
- <img src = "./pngwing.com (3).png" width="50px">
- <img src = "./pngwing.com (4).png" width="50px">
- </div>
- ## 🔗 socials :
- 
+### 🔗 Socials :
  <img src="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-pradeep2005&theme=dark&layout=compact"/>
 
