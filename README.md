@@ -9,5 +9,5 @@
  </div>
  
  <img src="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-pradeep2005&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-pradeep2005&theme=dark&layout=compact"/>
 
