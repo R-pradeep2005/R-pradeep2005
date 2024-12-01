@@ -1,4 +1,4 @@
-<div style="width:'100%'; display:flex; padding-right:150px"><img src = "./name.png" width="500px"></div>
+<div style="width:'100%'; display:flex;"><img src = "./name.png" width="500px" padding="100px"></div>
 
 
 ## ⚓ About me :
