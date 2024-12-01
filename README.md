@@ -2,9 +2,9 @@
 
 
 ### ⚓ About me :
-#### tech enthusiast
-#### learning react-native
-#### currently unemunemployed 
+#####  🛰️tech enthusiast
+#####  🐜learning react-native
+#####  🤞currently unemployed 
 ### 🖥️ Tech stack :
 <div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> <img src = "./vscode.png"width="50px">
   <img src = "./pngwing.com (1).png" width="50px">
