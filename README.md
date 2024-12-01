@@ -15,10 +15,8 @@
 
 ### 🔗 Socials :
 <div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> <img src = "./vscode.png"width="50px">
-  <img src = "./pngwing.com (1).png" width="30px">
-  <img src = "./pngwing.com (2).png" width="30px">
-  <img src = "./pngwing.com (3).png" width="30px">
-  <img src = "./pngwing.com (4).png" width="30px">
+  <a href="https://www.linkedin.com/in/pradeep-r-500229281"><img src = "./linkedin.png" width="30px"></a>
+  <a ><img src = "./x_platform.png" width="30px"></a>
   </div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
