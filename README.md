@@ -7,5 +7,5 @@
  <img src = "./pngwing.com (3).png" width="50px">
  <img src = "./pngwing.com (4).png" width="50px">
  </div>
- <button style="background-color:white;width:'50px'">hi</button>
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark)
 
