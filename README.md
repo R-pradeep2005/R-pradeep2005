@@ -7,7 +7,7 @@
   #####        🤞    currently unemployed  .....
 ## 🖥️ Tech stack :
 <div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> <img src = "./vscode.png"width="50px">
-  <img src = "./pngwing.com (1).png" width="30px">
+  <img src = "./pngwing.com (1).png" width="10px">
   <img src = "./pngwing.com (2).png" width="30px">
   <img src = "./pngwing.com (3).png" width="30px">
   <img src = "./pngwing.com (4).png" width="30px">
