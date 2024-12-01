@@ -1,4 +1,4 @@
-<div style="width:'100%'; display:flex;"><img src = "./name.png" width="500px" padding="100px"></div>
+<div style="width:'100%'; display:flex;"><img style="margin-left: 30px" src = "./name.png" width="500px" ></div>
 
 
 ## ⚓ About me :
@@ -13,7 +13,7 @@
   <img src = "./pngwing.com (4).png" width="30px">
   </div>
 
-### 🔗 Socials :
+## 🔗 Socials :
 <div style="display:flex; flex-direction:row; width:'250px'; justify-content:space-between"> 
   <a href="https://www.linkedin.com/in/pradeep-r-500229281"><img src = "./linkedin.png" width="40px"></a>
   <a href="https://x.com/R__Pradeep" ><img src = "./x_platform.png" width="40px"></a>
