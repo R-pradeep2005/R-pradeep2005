@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/pradeep-r-500229281"><img src = "./linkedin.png" width="40px"></a>
   <a href="https://x.com/R__Pradeep" ><img src = "./x_platform.png" width="40px"></a>
   </div>
-
+<div style="display:flex; flex-direction:row;  justify-content:space-between"> 
  <img src="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-pradeep2005&theme=dark&layout=compact"/>
-
+</div>
