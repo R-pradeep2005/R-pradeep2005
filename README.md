@@ -8,5 +8,5 @@
  <img src = "./pngwing.com (4).png" width="50px">
  </div>
  
- <img srcset="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"/>
 
