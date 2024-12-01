@@ -1,4 +1,4 @@
-<img src = "./name.png" width="20px">
+<img src = "./name.png" width="200px">
 
 
 ## I'm pradeep interested learing new things
