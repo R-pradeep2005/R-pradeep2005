@@ -7,5 +7,5 @@
  <img src = "./pngwing.com (3).png" width="50px">
  <img src = "./pngwing.com (4).png" width="50px">
  </div>
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark)
+ <source scrset="https://github-readme-stats.vercel.app/api?username=R-pradeep2005&show_icons=true&theme=dark"><source>
 
